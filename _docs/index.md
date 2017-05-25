@@ -15,7 +15,7 @@ type: markdown
 Welcome to Istio's documentation home page. From here you can learn all about Istio by following
 the links below:
 
-- [Concepts]({{home}}/docs/concepts/). Concepts explain some significant aspect of Istio. This
+- [Concepts]({{home}}/docs/concepts/). Concepts explain some significant aspects of Istio. This
 is where you can learn about what Istio does and how it does it.
 
 - [Tasks]({{home}}/docs/tasks/). Tasks show you how to do a single directed activity with Istio. Starting with [downloading and installing]({{home}}/docs/tasks/installing-istio.html) Istio.
